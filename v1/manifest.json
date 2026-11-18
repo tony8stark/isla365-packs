@@ -1,171 +1,193 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-18T12:03:45.615Z",
+ "generatedAt": "2026-11-18T21:41:22.380Z",
  "sites": [
   {
    "slug": "dr365",
    "label": "Dominican Republic",
    "short": "DR",
    "domain": "dominicanrepublic365.com",
-   "file": "dr365-e7fa92db.json",
-   "sha256": "e7fa92db27c6230e46553fa52b0bbc6dacbddf5c969f4f6ee02013c873e3657d",
-   "bytes": 1528460,
+   "file": "dr365-57d2d6f4.json",
+   "sha256": "57d2d6f4983c99db8c9396f280e7db53fa7cd8b2fab95c7d9141213aff87ec45",
+   "bytes": 1622801,
    "contentUpdatedAt": "2026-11-16T19:10:51.675942",
    "counts": {
     "guides": 66,
     "destinations": 43,
     "beaches": 62
-   }
+   },
+   "photos": 142,
+   "photoBytes": 22506768
   },
   {
    "slug": "antigua",
    "label": "Antigua & Barbuda",
    "short": "AG",
    "domain": "antiguabarbuda365.com",
-   "file": "antigua-ab2ba585.json",
-   "sha256": "ab2ba585c30e473b0c5e0d9c9e939d35bd650bbd7aff1be4995fa4fe4c2fd9ae",
-   "bytes": 316589,
+   "file": "antigua-f8476afa.json",
+   "sha256": "f8476afa9d59f6a9b88e6c9cf725d9a88290d5936a87cac731b44047f3b48a99",
+   "bytes": 335890,
    "contentUpdatedAt": "2026-10-09T11:43:36.81546",
    "counts": {
     "guides": 14,
     "destinations": 7,
     "beaches": 33
-   }
+   },
+   "photos": 30,
+   "photoBytes": 4595546
   },
   {
    "slug": "curacao",
    "label": "Curaçao",
    "short": "CW",
    "domain": "visitcuracao365.com",
-   "file": "curacao-4f23ccf7.json",
-   "sha256": "4f23ccf7776ee80b54ff91a6a4c497979cd428f8d2422f96c93279e755436ee1",
-   "bytes": 261869,
+   "file": "curacao-83f506f5.json",
+   "sha256": "83f506f5aa09d27ccb7100b8097b7ba8519a3b78cb01005bef9b9f2d347e6ac4",
+   "bytes": 276201,
    "contentUpdatedAt": "2026-10-09T11:44:54.824346",
    "counts": {
     "guides": 14,
     "destinations": 6,
     "beaches": 13
-   }
+   },
+   "photos": 22,
+   "photoBytes": 4265574
   },
   {
    "slug": "aruba",
    "label": "Aruba",
    "short": "AW",
    "domain": "visitaruba365.com",
-   "file": "aruba-9d0212b7.json",
-   "sha256": "9d0212b7cb96fdedfe3a31fca2af6ea395ff59a3bb14a4c8cd067fd489dd77c0",
-   "bytes": 251885,
+   "file": "aruba-303bfdee.json",
+   "sha256": "303bfdeeb51165387f7454aca2cbc8e909a68700a57a50392f315e1326557534",
+   "bytes": 271747,
    "contentUpdatedAt": "2026-10-31T22:44:27",
    "counts": {
     "guides": 12,
     "destinations": 7,
     "beaches": 14
-   }
+   },
+   "photos": 31,
+   "photoBytes": 4448830
   },
   {
    "slug": "cyprus",
    "label": "Cyprus",
    "short": "CY",
    "domain": "visitcyprus365.com",
-   "file": "cyprus-f5d448a8.json",
-   "sha256": "f5d448a82ee19c4dcb1500b9f02a335e5c05e493ce5fdf76d355b96cc64513b6",
-   "bytes": 383573,
+   "file": "cyprus-2b09b0d4.json",
+   "sha256": "2b09b0d4ca312326f9aa12fe44cd839bdbe713f0aa25645af58e7da896f77d16",
+   "bytes": 408262,
    "contentUpdatedAt": "2026-11-17T22:06:23.034927",
    "counts": {
     "guides": 17,
     "destinations": 8,
     "beaches": 14
-   }
+   },
+   "photos": 38,
+   "photoBytes": 7131344
   },
   {
    "slug": "malta",
    "label": "Malta",
    "short": "MT",
    "domain": "visitmalta365.com",
-   "file": "malta-231bff07.json",
-   "sha256": "231bff07d6951d640cabc90e0ffbfcf71f182ed82bc0ecdc15e7d3106a7a4eb5",
-   "bytes": 262185,
+   "file": "malta-65f7d123.json",
+   "sha256": "65f7d123d302698985160bcf1957047d98159a04c15904f49bb0b360f885e9ce",
+   "bytes": 288567,
    "contentUpdatedAt": "2026-11-15T20:13:58.049286",
    "counts": {
     "guides": 12,
     "destinations": 10,
     "beaches": 20
-   }
+   },
+   "photos": 40,
+   "photoBytes": 7360530
   },
   {
    "slug": "canary",
    "label": "Canary Islands",
    "short": "IC",
    "domain": "canaryislands365.com",
-   "file": "canary-63e76930.json",
-   "sha256": "63e76930a85d4885acdbb53265d48ed1bb4e33842093aee371b9bfb63b38972e",
-   "bytes": 280330,
+   "file": "canary-b7272bcb.json",
+   "sha256": "b7272bcbed51bc09b15c2ebad5d5ac59f459914156e2f3cf10d4df897a34d748",
+   "bytes": 310531,
    "contentUpdatedAt": "2026-11-16T06:34:00.325772",
    "counts": {
     "guides": 12,
     "destinations": 14,
     "beaches": 20
-   }
+   },
+   "photos": 46,
+   "photoBytes": 6887004
   },
   {
    "slug": "madeira",
    "label": "Madeira",
    "short": "MD",
    "domain": "visitmadeira365.com",
-   "file": "madeira-74b57593.json",
-   "sha256": "74b57593c177f71d148063af2c30909ebe2c0e683f9a24e42c0a573ecd2d112a",
-   "bytes": 241506,
+   "file": "madeira-a03ae24f.json",
+   "sha256": "a03ae24fd03d69b3b2ea08f73939d6e70a97a6c0c7db6d3888a7db4a0cca1a93",
+   "bytes": 266248,
    "contentUpdatedAt": "2026-11-16T06:36:37.253627",
    "counts": {
     "guides": 12,
     "destinations": 11,
     "beaches": 14
-   }
+   },
+   "photos": 37,
+   "photoBytes": 7994650
   },
   {
    "slug": "barbados",
    "label": "Barbados",
    "short": "BB",
    "domain": "visitbarbados365.com",
-   "file": "barbados-3cfb5702.json",
-   "sha256": "3cfb57024206bd414ef6988e1eb69146a0913a4f7a7acdc469ad61472a5a8cb2",
-   "bytes": 254388,
+   "file": "barbados-731a94ab.json",
+   "sha256": "731a94abd7dd47c28308798b6e589ff2d3770a9af0fb144d191625d09affabc2",
+   "bytes": 275129,
    "contentUpdatedAt": "2026-11-16T06:38:58.328094",
    "counts": {
     "guides": 12,
     "destinations": 9,
     "beaches": 20
-   }
+   },
+   "photos": 32,
+   "photoBytes": 5249626
   },
   {
    "slug": "capeverde",
    "label": "Cape Verde",
    "short": "CV",
    "domain": "capeverde365.com",
-   "file": "capeverde-2225751b.json",
-   "sha256": "2225751b559158f66ee3b27acc6dee9b0c799c0f875dda7b06da4a5b1e53fe04",
-   "bytes": 257471,
+   "file": "capeverde-a0cbcd1c.json",
+   "sha256": "a0cbcd1c3cba9cad5ea508bbe6e48afbd8a6faa0443bd647c91c4288b47a813d",
+   "bytes": 280641,
    "contentUpdatedAt": "2026-11-16T11:22:08.155217",
    "counts": {
     "guides": 12,
     "destinations": 12,
     "beaches": 15
-   }
+   },
+   "photos": 36,
+   "photoBytes": 4487508
   },
   {
    "slug": "thaiislands",
    "label": "Thai Islands",
    "short": "TH",
    "domain": "thaiislands365.com",
-   "file": "thaiislands-cbebe808.json",
-   "sha256": "cbebe808e1f9ec40d6b041d602d53fd108f644aec136be41f16df87720f8f7d4",
-   "bytes": 269797,
+   "file": "thaiislands-f566fa9e.json",
+   "sha256": "f566fa9eb6d5154015195ba91e004d90beadf2853cbf74df5b12fc3a1089f213",
+   "bytes": 303081,
    "contentUpdatedAt": "2026-11-16T17:18:33.476646",
    "counts": {
     "guides": 15,
     "destinations": 18,
     "beaches": 19
-   }
+   },
+   "photos": 50,
+   "photoBytes": 7212010
   }
  ]
 }
