@@ -1,0 +1,171 @@
+{
+ "schemaVersion": 1,
+ "generatedAt": "2026-11-18T12:03:45.615Z",
+ "sites": [
+  {
+   "slug": "dr365",
+   "label": "Dominican Republic",
+   "short": "DR",
+   "domain": "dominicanrepublic365.com",
+   "file": "dr365-e7fa92db.json",
+   "sha256": "e7fa92db27c6230e46553fa52b0bbc6dacbddf5c969f4f6ee02013c873e3657d",
+   "bytes": 1528460,
+   "contentUpdatedAt": "2026-11-16T19:10:51.675942",
+   "counts": {
+    "guides": 66,
+    "destinations": 43,
+    "beaches": 62
+   }
+  },
+  {
+   "slug": "antigua",
+   "label": "Antigua & Barbuda",
+   "short": "AG",
+   "domain": "antiguabarbuda365.com",
+   "file": "antigua-ab2ba585.json",
+   "sha256": "ab2ba585c30e473b0c5e0d9c9e939d35bd650bbd7aff1be4995fa4fe4c2fd9ae",
+   "bytes": 316589,
+   "contentUpdatedAt": "2026-10-09T11:43:36.81546",
+   "counts": {
+    "guides": 14,
+    "destinations": 7,
+    "beaches": 33
+   }
+  },
+  {
+   "slug": "curacao",
+   "label": "Curaçao",
+   "short": "CW",
+   "domain": "visitcuracao365.com",
+   "file": "curacao-4f23ccf7.json",
+   "sha256": "4f23ccf7776ee80b54ff91a6a4c497979cd428f8d2422f96c93279e755436ee1",
+   "bytes": 261869,
+   "contentUpdatedAt": "2026-10-09T11:44:54.824346",
+   "counts": {
+    "guides": 14,
+    "destinations": 6,
+    "beaches": 13
+   }
+  },
+  {
+   "slug": "aruba",
+   "label": "Aruba",
+   "short": "AW",
+   "domain": "visitaruba365.com",
+   "file": "aruba-9d0212b7.json",
+   "sha256": "9d0212b7cb96fdedfe3a31fca2af6ea395ff59a3bb14a4c8cd067fd489dd77c0",
+   "bytes": 251885,
+   "contentUpdatedAt": "2026-10-31T22:44:27",
+   "counts": {
+    "guides": 12,
+    "destinations": 7,
+    "beaches": 14
+   }
+  },
+  {
+   "slug": "cyprus",
+   "label": "Cyprus",
+   "short": "CY",
+   "domain": "visitcyprus365.com",
+   "file": "cyprus-f5d448a8.json",
+   "sha256": "f5d448a82ee19c4dcb1500b9f02a335e5c05e493ce5fdf76d355b96cc64513b6",
+   "bytes": 383573,
+   "contentUpdatedAt": "2026-11-17T22:06:23.034927",
+   "counts": {
+    "guides": 17,
+    "destinations": 8,
+    "beaches": 14
+   }
+  },
+  {
+   "slug": "malta",
+   "label": "Malta",
+   "short": "MT",
+   "domain": "visitmalta365.com",
+   "file": "malta-231bff07.json",
+   "sha256": "231bff07d6951d640cabc90e0ffbfcf71f182ed82bc0ecdc15e7d3106a7a4eb5",
+   "bytes": 262185,
+   "contentUpdatedAt": "2026-11-15T20:13:58.049286",
+   "counts": {
+    "guides": 12,
+    "destinations": 10,
+    "beaches": 20
+   }
+  },
+  {
+   "slug": "canary",
+   "label": "Canary Islands",
+   "short": "IC",
+   "domain": "canaryislands365.com",
+   "file": "canary-63e76930.json",
+   "sha256": "63e76930a85d4885acdbb53265d48ed1bb4e33842093aee371b9bfb63b38972e",
+   "bytes": 280330,
+   "contentUpdatedAt": "2026-11-16T06:34:00.325772",
+   "counts": {
+    "guides": 12,
+    "destinations": 14,
+    "beaches": 20
+   }
+  },
+  {
+   "slug": "madeira",
+   "label": "Madeira",
+   "short": "MD",
+   "domain": "visitmadeira365.com",
+   "file": "madeira-74b57593.json",
+   "sha256": "74b57593c177f71d148063af2c30909ebe2c0e683f9a24e42c0a573ecd2d112a",
+   "bytes": 241506,
+   "contentUpdatedAt": "2026-11-16T06:36:37.253627",
+   "counts": {
+    "guides": 12,
+    "destinations": 11,
+    "beaches": 14
+   }
+  },
+  {
+   "slug": "barbados",
+   "label": "Barbados",
+   "short": "BB",
+   "domain": "visitbarbados365.com",
+   "file": "barbados-3cfb5702.json",
+   "sha256": "3cfb57024206bd414ef6988e1eb69146a0913a4f7a7acdc469ad61472a5a8cb2",
+   "bytes": 254388,
+   "contentUpdatedAt": "2026-11-16T06:38:58.328094",
+   "counts": {
+    "guides": 12,
+    "destinations": 9,
+    "beaches": 20
+   }
+  },
+  {
+   "slug": "capeverde",
+   "label": "Cape Verde",
+   "short": "CV",
+   "domain": "capeverde365.com",
+   "file": "capeverde-2225751b.json",
+   "sha256": "2225751b559158f66ee3b27acc6dee9b0c799c0f875dda7b06da4a5b1e53fe04",
+   "bytes": 257471,
+   "contentUpdatedAt": "2026-11-16T11:22:08.155217",
+   "counts": {
+    "guides": 12,
+    "destinations": 12,
+    "beaches": 15
+   }
+  },
+  {
+   "slug": "thaiislands",
+   "label": "Thai Islands",
+   "short": "TH",
+   "domain": "thaiislands365.com",
+   "file": "thaiislands-cbebe808.json",
+   "sha256": "cbebe808e1f9ec40d6b041d602d53fd108f644aec136be41f16df87720f8f7d4",
+   "bytes": 269797,
+   "contentUpdatedAt": "2026-11-16T17:18:33.476646",
+   "counts": {
+    "guides": 15,
+    "destinations": 18,
+    "beaches": 19
+   }
+  }
+ ]
+}
