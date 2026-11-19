@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-18T22:28:36.850Z",
+ "generatedAt": "2026-11-19T13:57:06.095Z",
  "sites": [
   {
    "slug": "dr365",
@@ -17,16 +17,28 @@
     "beaches": 62
    },
    "photos": 142,
-   "photoBytes": 22506768
+   "photoBytes": 22506768,
+   "cover": {
+    "url": "https://srv1772189.hstgr.cloud/storage/v1/object/public/travel_images/destinations/dd2e351a-4fa6-4992-9bd6-6181af198ca3/stock_unsplash_19fWyBO2A_E_medium.webp",
+    "thumb": "https://srv1772189.hstgr.cloud/storage/v1/object/public/travel_images/destinations/dd2e351a-4fa6-4992-9bd6-6181af198ca3/stock_unsplash_19fWyBO2A_E_thumb.webp",
+    "bytes": 204654,
+    "alt": "Christopher Columbus Statue - Dominican Republic",
+    "credit": "Photo by Robin Canfield on Unsplash",
+    "creditUrl": "https://unsplash.com/@robincanfield?utm_source=isla365&utm_medium=referral",
+    "license": "Unsplash License",
+    "licenseUrl": null,
+    "width": 1200,
+    "height": 800
+   }
   },
   {
    "slug": "antigua",
    "label": "Antigua & Barbuda",
    "short": "AG",
    "domain": "antiguabarbuda365.com",
-   "file": "antigua-cbb38f29.json",
-   "sha256": "cbb38f29e5e31ec24fccfa1fb737a8108a78daf8d7ca76c1b75ffac10ccefe01",
-   "bytes": 336019,
+   "file": "antigua-ef745e41.json",
+   "sha256": "ef745e41207677ef4ce95d2afd6dbba28d7241ee93cf8ff66706aec78191862d",
+   "bytes": 336124,
    "contentUpdatedAt": "2026-10-09T11:43:36.81546",
    "counts": {
     "guides": 14,
@@ -34,16 +46,28 @@
     "beaches": 33
    },
    "photos": 30,
-   "photoBytes": 4595546
+   "photoBytes": 4595546,
+   "cover": {
+    "url": "https://srv1772189.hstgr.cloud/storage/v1/object/public/antigua/destinations/0d95071a-dc79-4123-94b4-b69895b4a070/featured_wikimedia_7015788_medium.webp",
+    "thumb": "https://srv1772189.hstgr.cloud/storage/v1/object/public/antigua/destinations/0d95071a-dc79-4123-94b4-b69895b4a070/featured_wikimedia_7015788_thumb.webp",
+    "bytes": 91986,
+    "alt": "Dickenson Bay, Antigua",
+    "credit": "Paul Kowalow via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Dickinson_bay_beach_antigua.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1200,
+    "height": 675
+   }
   },
   {
    "slug": "curacao",
    "label": "Curaçao",
    "short": "CW",
    "domain": "visitcuracao365.com",
-   "file": "curacao-2f81553a.json",
-   "sha256": "2f81553a8a3f1c9f3a43d2d09215b96b8bd8eb4825f37821cc9913dd69edf696",
-   "bytes": 276246,
+   "file": "curacao-cac57d91.json",
+   "sha256": "cac57d914e0292b4f19e46e45827d38cc2ad4babc7fb0a2b0066372bc7726df1",
+   "bytes": 276309,
    "contentUpdatedAt": "2026-10-09T11:44:54.824346",
    "counts": {
     "guides": 14,
@@ -51,16 +75,17 @@
     "beaches": 13
    },
    "photos": 22,
-   "photoBytes": 4265574
+   "photoBytes": 4265574,
+   "cover": null
   },
   {
    "slug": "aruba",
    "label": "Aruba",
    "short": "AW",
    "domain": "visitaruba365.com",
-   "file": "aruba-94fe2a29.json",
-   "sha256": "94fe2a29097abbb5e598871c4ebd3fcc82effdc363676cd1d4f7a7ab38c9e3d6",
-   "bytes": 271851,
+   "file": "aruba-ad882cdf.json",
+   "sha256": "ad882cdfcba200b0a9e76ce0ddabf9c7323622a2a6a928e435ad49f9cdca37b5",
+   "bytes": 271860,
    "contentUpdatedAt": "2026-10-31T22:44:27",
    "counts": {
     "guides": 12,
@@ -68,33 +93,57 @@
     "beaches": 14
    },
    "photos": 31,
-   "photoBytes": 4448830
+   "photoBytes": 4448830,
+   "cover": {
+    "url": "https://srv1772189.hstgr.cloud/storage/v1/object/public/aruba/destinations/6b139f1a-9f2b-40dc-bfc3-27d0335d3dac/stock_wikimedia_24322547_medium.webp",
+    "thumb": "https://srv1772189.hstgr.cloud/storage/v1/object/public/aruba/destinations/6b139f1a-9f2b-40dc-bfc3-27d0335d3dac/stock_wikimedia_24322547_thumb.webp",
+    "bytes": 129506,
+    "alt": "Fofoti tree on Eagle Beach, Aruba",
+    "credit": "Serge Melki from Indianapolis, USA via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File%3AMangrove_tree_(Conocarpus_erectus)_Aruba_eagle_Beach_(2896884681).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "width": 1200,
+    "height": 750
+   }
   },
   {
    "slug": "cyprus",
    "label": "Cyprus",
    "short": "CY",
    "domain": "visitcyprus365.com",
-   "file": "cyprus-3c74f67e.json",
-   "sha256": "3c74f67ed1bf682d4d24bd7c47a4e3b1e75f179a39483650d90a0c9f8533262d",
-   "bytes": 408337,
+   "file": "cyprus-400ad45f.json",
+   "sha256": "400ad45f9dcbaedf7f34cd26451867cff077c9ca1529bba0b7b316aaec6ec83c",
+   "bytes": 419456,
    "contentUpdatedAt": "2026-11-17T22:06:23.034927",
    "counts": {
-    "guides": 17,
+    "guides": 18,
     "destinations": 8,
     "beaches": 14
    },
-   "photos": 38,
-   "photoBytes": 7131344
+   "photos": 39,
+   "photoBytes": 7347920,
+   "cover": {
+    "url": "https://srv1772189.hstgr.cloud/storage/v1/object/public/cyprus/beachs/056665e1-7c49-4d62-834f-248ce2f799ee/stock_wikimedia_76842094_medium.webp",
+    "thumb": "https://srv1772189.hstgr.cloud/storage/v1/object/public/cyprus/beachs/056665e1-7c49-4d62-834f-248ce2f799ee/stock_wikimedia_76842094_thumb.webp",
+    "bytes": 212058,
+    "alt": "Islet in the Blue Lagoon, Akamas Peninsula, Cyprus",
+    "credit": "Michal Klajban via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File%3AIsland_in_Blue_Lagoon%2C_Akamas_Peninsula%2C_Cyprus.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1200,
+    "height": 778
+   }
   },
   {
    "slug": "malta",
    "label": "Malta",
    "short": "MT",
    "domain": "visitmalta365.com",
-   "file": "malta-701185dd.json",
-   "sha256": "701185dd890059bed9b773d90e28eaddf727bf80f649d090988c577a1aa530ec",
-   "bytes": 288607,
+   "file": "malta-468b8890.json",
+   "sha256": "468b88904a5fed70b68e50a926146eb95f2b580f589291a34ba8aa80c25157be",
+   "bytes": 288714,
    "contentUpdatedAt": "2026-11-15T20:13:58.049286",
    "counts": {
     "guides": 12,
@@ -102,16 +151,28 @@
     "beaches": 20
    },
    "photos": 40,
-   "photoBytes": 7360530
+   "photoBytes": 7360530,
+   "cover": {
+    "url": "https://srv1772189.hstgr.cloud/storage/v1/object/public/malta/destinations/6a044dfa-c6db-46e3-bcd5-903b08a24021/stock_wikimedia_4072155_medium.webp",
+    "thumb": "https://srv1772189.hstgr.cloud/storage/v1/object/public/malta/destinations/6a044dfa-c6db-46e3-bcd5-903b08a24021/stock_wikimedia_4072155_thumb.webp",
+    "bytes": 142332,
+    "alt": "Comino, Comino, Malta",
+    "credit": "Thyes via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File%3AMalta-comino-162.jpg",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "width": 1200,
+    "height": 696
+   }
   },
   {
    "slug": "canary",
    "label": "Canary Islands",
    "short": "IC",
    "domain": "canaryislands365.com",
-   "file": "canary-3efc339b.json",
-   "sha256": "3efc339b269692c6223cc2fa7b94442248aa1a8c661bf47240a98e98ac3fe6e2",
-   "bytes": 310672,
+   "file": "canary-703003bd.json",
+   "sha256": "703003bd955a9c1ce3662c4a882f2382db3e0a022d7a1f4cba791308b1d4f314",
+   "bytes": 310698,
    "contentUpdatedAt": "2026-11-16T06:34:00.325772",
    "counts": {
     "guides": 12,
@@ -119,16 +180,28 @@
     "beaches": 20
    },
    "photos": 46,
-   "photoBytes": 6887004
+   "photoBytes": 6887004,
+   "cover": {
+    "url": "https://srv1772189.hstgr.cloud/storage/v1/object/public/canary/destinations/5c821a47-3732-4cb8-bf9d-67490ad55e3f/stock_wikimedia_15941008_medium.webp",
+    "thumb": "https://srv1772189.hstgr.cloud/storage/v1/object/public/canary/destinations/5c821a47-3732-4cb8-bf9d-67490ad55e3f/stock_wikimedia_15941008_thumb.webp",
+    "bytes": 201814,
+    "alt": "Corralejo",
+    "credit": "Jensibua via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File%3ACorralejo_luftbild.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 1200,
+    "height": 832
+   }
   },
   {
    "slug": "madeira",
    "label": "Madeira",
    "short": "MD",
    "domain": "visitmadeira365.com",
-   "file": "madeira-b7c1bae4.json",
-   "sha256": "b7c1bae4494c3271d8bac91948a0d1cd23bca243090669ca4a95a9ae66f5513a",
-   "bytes": 266275,
+   "file": "madeira-8d7e1f83.json",
+   "sha256": "8d7e1f8356767eef2bb894026b31809c9aeb4c77c912d6911921c751c421b872",
+   "bytes": 266371,
    "contentUpdatedAt": "2026-11-16T06:36:37.253627",
    "counts": {
     "guides": 12,
@@ -136,16 +209,28 @@
     "beaches": 14
    },
    "photos": 37,
-   "photoBytes": 7994650
+   "photoBytes": 7994650,
+   "cover": {
+    "url": "https://srv1772189.hstgr.cloud/storage/v1/object/public/madeira/destinations/0a9599e2-39fc-4256-9d1b-b4835efda2f8/stock_wikimedia_20750319_medium.webp",
+    "thumb": "https://srv1772189.hstgr.cloud/storage/v1/object/public/madeira/destinations/0a9599e2-39fc-4256-9d1b-b4835efda2f8/stock_wikimedia_20750319_thumb.webp",
+    "bytes": 101218,
+    "alt": "Calheta, Jardim do Mar and Paul do Mar",
+    "credit": "Stephen Colebourne via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File%3AJardim_do_Mar%2C_Madeira_-_Jan_2012_-_02.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "width": 1200,
+    "height": 674
+   }
   },
   {
    "slug": "barbados",
    "label": "Barbados",
    "short": "BB",
    "domain": "visitbarbados365.com",
-   "file": "barbados-ba2b2678.json",
-   "sha256": "ba2b26780b585f388050d0936d273331726de629a8748be19794219d98fb1651",
-   "bytes": 275259,
+   "file": "barbados-24d1fb0c.json",
+   "sha256": "24d1fb0c1143644763e8b058d6ef176b733c61ad885b71f0d0024a8108e3513f",
+   "bytes": 275302,
    "contentUpdatedAt": "2026-11-16T06:38:58.328094",
    "counts": {
     "guides": 12,
@@ -153,16 +238,28 @@
     "beaches": 20
    },
    "photos": 32,
-   "photoBytes": 5249626
+   "photoBytes": 5249626,
+   "cover": {
+    "url": "https://srv1772189.hstgr.cloud/storage/v1/object/public/barbados/destinations/b8c528a2-aa0b-4325-83e5-56ef4d260741/stock_wikimedia_6383656_medium.webp",
+    "thumb": "https://srv1772189.hstgr.cloud/storage/v1/object/public/barbados/destinations/b8c528a2-aa0b-4325-83e5-56ef4d260741/stock_wikimedia_6383656_thumb.webp",
+    "bytes": 241224,
+    "alt": "Mushroom Rock standing in the Atlantic surf at Bathsheba, Barbados east coast",
+    "credit": "Postdlf via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File%3ABathsheba%2C_Barbados_24.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 1200,
+    "height": 900
+   }
   },
   {
    "slug": "capeverde",
    "label": "Cape Verde",
    "short": "CV",
    "domain": "capeverde365.com",
-   "file": "capeverde-82ef4b27.json",
-   "sha256": "82ef4b2729dd45b86e72a7b9fa330d787ca2081299c69ef4805fda684cfbe03c",
-   "bytes": 280729,
+   "file": "capeverde-9852bde8.json",
+   "sha256": "9852bde8da6fabf46ad6a3bd2cb1ceb86485031d22064b7f822e1cb02b15cee8",
+   "bytes": 280764,
    "contentUpdatedAt": "2026-11-16T11:22:08.155217",
    "counts": {
     "guides": 12,
@@ -170,16 +267,28 @@
     "beaches": 15
    },
    "photos": 36,
-   "photoBytes": 4487508
+   "photoBytes": 4487508,
+   "cover": {
+    "url": "https://srv1772189.hstgr.cloud/storage/v1/object/public/capeverde/destinations/f0feebe3-5738-4123-ba5c-7ed4b1722e99/stock_wikimedia_36641386_medium.webp",
+    "thumb": "https://srv1772189.hstgr.cloud/storage/v1/object/public/capeverde/destinations/f0feebe3-5738-4123-ba5c-7ed4b1722e99/stock_wikimedia_36641386_thumb.webp",
+    "bytes": 88986,
+    "alt": "Pale sand dune with scattered shrubs at Praia de Cruz on Boa Vista",
+    "credit": "Ximonic (Simo Räsänen) via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File%3ASand_dune_at_Praia_de_Cruz%2C_Boa_Vista%2C_Cape_Verde%2C_2010_December.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1200,
+    "height": 800
+   }
   },
   {
    "slug": "thaiislands",
    "label": "Thai Islands",
    "short": "TH",
    "domain": "thaiislands365.com",
-   "file": "thaiislands-6ae72148.json",
-   "sha256": "6ae72148857d73d45ee3acef9423887c41c856d732082abc765b4413e9816059",
-   "bytes": 303127,
+   "file": "thaiislands-94793323.json",
+   "sha256": "94793323edcfc8fbcd02661baf2c7cd703cf8291c0162e93dcd11a5595739354",
+   "bytes": 303224,
    "contentUpdatedAt": "2026-11-16T17:18:33.476646",
    "counts": {
     "guides": 15,
@@ -187,7 +296,19 @@
     "beaches": 19
    },
    "photos": 50,
-   "photoBytes": 7212010
+   "photoBytes": 7212010,
+   "cover": {
+    "url": "https://srv1772189.hstgr.cloud/storage/v1/object/public/thaiislands/destinations/167cfd95-1f83-4d57-b1c5-75758db23a53/stock_wikimedia_31121709_medium.webp",
+    "thumb": "https://srv1772189.hstgr.cloud/storage/v1/object/public/thaiislands/destinations/167cfd95-1f83-4d57-b1c5-75758db23a53/stock_wikimedia_31121709_thumb.webp",
+    "bytes": 74282,
+    "alt": "Wooden boat pier at Bophut village on Koh Samui",
+    "credit": "Ruta Badina via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File%3APier_in_Bophut_village_in_Ko_Samui.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1200,
+    "height": 800
+   }
   }
  ]
 }
