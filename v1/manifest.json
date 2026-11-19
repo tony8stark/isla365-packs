@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-19T13:57:06.095Z",
+ "generatedAt": "2026-11-19T13:58:45.363Z",
  "sites": [
   {
    "slug": "dr365",
@@ -76,7 +76,18 @@
    },
    "photos": 22,
    "photoBytes": 4265574,
-   "cover": null
+   "cover": {
+    "url": "https://srv1772189.hstgr.cloud/storage/v1/object/public/curacao/destinations/a30cab7e-7e74-4409-8d7f-7290c32e68a6/featured_wikimedia_60427748_medium.webp",
+    "thumb": "https://srv1772189.hstgr.cloud/storage/v1/object/public/curacao/destinations/a30cab7e-7e74-4409-8d7f-7290c32e68a6/featured_wikimedia_60427748_thumb.webp",
+    "bytes": 258616,
+    "alt": "Curacao Jan Thiel Strand (34071052004)",
+    "credit": "dronepicr via Wikimedia Commons",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File%3ACuracao%20Jan%20Thiel%20Strand%20(34071052004).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "width": null,
+    "height": null
+   }
   },
   {
    "slug": "aruba",
